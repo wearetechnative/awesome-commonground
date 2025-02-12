@@ -6,6 +6,10 @@
 Curated list of resources engineers need to know when working at TechNative.
 
 <!-- TOC -->
+## Portals
+
+- https://commonground.nl - Central CommonGround portal. To learn more about Common Ground, start here.
+
 
 ## YouTube Channels
 
