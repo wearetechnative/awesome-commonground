@@ -1,5 +1,5 @@
 
-# Awesome CommonGround [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/wearetechnative/awesome-commonground/actions/workflows/lint.yaml/badge.svg)](https://github.com/wearetechnative/awesome-commonground/actions/workflows/lint.yaml)
+# Awesome CommonGround [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 
